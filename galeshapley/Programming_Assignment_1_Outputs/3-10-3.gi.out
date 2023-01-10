@@ -1,0 +1,13 @@
+m=3 n=10
+Student 0 University -1
+Student 1 University 1
+Student 2 University -1
+Student 3 University -1
+Student 4 University -1
+Student 5 University -1
+Student 6 University -1
+Student 7 University 2
+Student 8 University 0
+Student 9 University -1
+Gale-Shapley Student Optimal: stable? true
+
